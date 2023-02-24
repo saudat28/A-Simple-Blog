@@ -1,0 +1,13 @@
+.triple .fa-droplet{
+   animation:animate__slideInRight;
+   animation-duration: 4s;
+ }
+ .triple .fa-heart{
+   animation: animate__slideInLeft;
+   animation-duration: 5s;
+ }
+ .triple .fa-earth-africa
+ .triple .fa-leaf{
+   animation: animate__slideInUp;
+   animation-duration: 5s;
+}
