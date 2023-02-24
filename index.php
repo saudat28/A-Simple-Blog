@@ -23,7 +23,7 @@
                          <div class="column triple">
                             <i class="fa-sharp fa-solid fa-leaf"></i>
                               <hr class="green-hr">
-                              <p>Nature is everywhere, and it's easy to get lost in its beautiful landscape. 
+                              <p>Nature is everywhere, and it's easy to get lost in its beautiful landscape!. 
                                 Whether you're watching waves crash against the shore or hearing birds chirping in the distance, 
                                 there is something so remarkable and beautiful about being immersed in nature.</p>
                          </div>
